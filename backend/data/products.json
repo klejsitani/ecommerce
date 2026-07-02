@@ -1,0 +1,87 @@
+{
+  "products": [
+    { "id": 1,  "name": "Asphalt Hoodie",       "cat": "hoodies",    "price": 260, "tag": "New",     "klasa": "product--01", "desc": "Heavyweight cotton hoodie. Oversized fit. Four colorways.",
+      "images": { "format": "avif", "colors": [
+        { "name": "Black", "key": "black", "hex": "#0c0c0c", "count": 8 },
+        { "name": "Gray",  "key": "gray",  "hex": "#8a8a8a", "count": 7 },
+        { "name": "Green", "key": "green", "hex": "#1e3a2e", "count": 8 },
+        { "name": "Beige", "key": "beige", "hex": "#c4a47c", "count": 7 }
+      ]}
+    },
+    { "id": 2,  "name": "Concrete Hoodie",      "cat": "hoodies",    "price": 56,  "tag": "Drop 04", "klasa": "product--01", "desc": "Pullover hoodie with embroidered logo. Loose fit." },
+    { "id": 3,  "name": "Carbon Zip-up",        "cat": "hoodies",    "price": 68,  "tag": "Limited", "klasa": "product--08", "desc": "Full-length zip. Cotton + polyester. 380gsm." },
+
+    { "id": 4,  "name": "Concrete Tee",         "cat": "tshirts",    "price": 180, "tag": "Drop 04", "klasa": "product--02", "desc": "Cotton tee with embroidered logo. Black or white.",
+      "images": { "format": "avif", "colors": [
+        { "name": "Black", "key": "black", "hex": "#0c0c0c", "count": 7 },
+        { "name": "White", "key": "white", "hex": "#ede4d3", "count": 7 }
+      ]}
+    },
+    { "id": 5,  "name": "Crew Logo Tee",        "cat": "tshirts",    "price": 24,  "tag": "Classic", "klasa": "product--02", "desc": "Classic tee with embroidered logo. Available in 6 colors." },
+    { "id": 6,  "name": "90s Oversized Tee",    "cat": "tshirts",    "price": 32,  "tag": "New",     "klasa": "product--02", "desc": "Oversized fit inspired by the 90s." },
+
+    { "id": 7,  "name": "Tailored Trouser",     "cat": "trousers",   "price": 110, "tag": "Drop 04", "klasa": "product--08", "desc": "Tailored wool-blend trousers. Pleated front. Three colors.",
+      "images": { "format": "avif", "colors": [
+        { "name": "Black",  "key": "black",  "hex": "#0c0c0c", "count": 5, "price": 110 },
+        { "name": "Blue",   "key": "blue",   "hex": "#1e3a8a", "count": 4, "price": 120 },
+        { "name": "Yellow", "key": "yellow", "hex": "#e8d97c", "count": 5, "price": 90  }
+      ]}
+    },
+    { "id": 8,  "name": "Wool Trouser 02",      "cat": "trousers",   "price": 84,  "tag": "New",     "klasa": "product--01", "desc": "100% wool. Classic cut with pleats." },
+    { "id": 9,  "name": "Pleated Trouser",      "cat": "trousers",   "price": 69,  "tag": "Classic", "klasa": "product--08", "desc": "Pleated front. Tapered leg. Italian fabric." },
+
+    { "id": 10, "name": "French Terry Sweat",   "cat": "sweatpants", "price": 70,  "tag": "New",     "klasa": "product--01", "desc": "French terry sweatpants. Straight leg. Three colors.",
+      "images": { "format": "avif", "colors": [
+        { "name": "Beige", "key": "beige", "hex": "#c4a47c", "count": 4 },
+        { "name": "Black", "key": "black", "hex": "#0c0c0c", "count": 4 },
+        { "name": "Green", "key": "green", "hex": "#1e3a2e", "count": 3 }
+      ]}
+    },
+    { "id": 11, "name": "Cuffed Sweat",         "cat": "sweatpants", "price": 42,  "tag": "Drop 04", "klasa": "product--01", "desc": "Sweatpants with narrow cuff. Embroidered logo." },
+    { "id": 12, "name": "Wide-Leg Sweat",       "cat": "sweatpants", "price": 52,  "tag": "Limited", "klasa": "product--02", "desc": "Wide-leg silhouette. Maximum comfort." },
+
+    { "id": 13, "name": "Cargo Trouser 02",     "cat": "pants",      "price": 230, "tag": "New",     "klasa": "product--08", "desc": "Cotton cargo trousers. Six pockets. Black or green.",
+      "images": { "format": "avif", "colors": [
+        { "name": "Black", "key": "black", "hex": "#0c0c0c", "count": 7, "price": 230 },
+        { "name": "Green", "key": "green", "hex": "#3a4a2e", "count": 4, "price": 95  }
+      ]}
+    },
+    { "id": 14, "name": "Raw Selvedge Denim",   "cat": "pants",      "price": 84,  "tag": "Drop 04", "klasa": "product--01", "desc": "Raw selvedge denim. 14oz. Made in Japan." },
+    { "id": 15, "name": "Black Tech Pant",      "cat": "pants",      "price": 74,  "tag": "Classic", "klasa": "product--08", "desc": "Tech fabric. Water-resistant. Zipper pockets." },
+
+    { "id": 16, "name": "AR-04 Runner",         "cat": "atlete",     "price": 190, "tag": "New",     "klasa": "product--03", "desc": "High-top leather sneaker and low-top suede sneaker. Two iconic silhouettes.",
+      "images": { "format": "avif", "colors": [
+        { "name": "Gray", "key": "gray", "hex": "#8a8a8a", "count": 4, "price": 190 },
+        { "name": "Pink", "key": "pink", "hex": "#e8b8c8", "count": 4, "price": 125 }
+      ]}
+    },
+    { "id": 17, "name": "Classic Low-Top",      "cat": "atlete",     "price": 84,  "tag": "Drop 04", "klasa": "product--03", "desc": "Minimalist low-top. White leather." },
+    { "id": 18, "name": "Patrol Hi-Top",        "cat": "atlete",     "price": 112, "tag": "Limited", "klasa": "product--03", "desc": "Heavy-duty hi-top. Vintage leather." },
+
+    { "id": 19, "name": "NOX Eau de Parfum",    "cat": "parfume",    "price": 280, "tag": "Hero",    "klasa": "product--04", "desc": "Bergamot, neroli, jasmine, sandalwood. 100ml unisex.",
+      "images": { "format": "jpg", "colors": [
+        { "name": "Default", "key": "default", "hex": "#1e3a8a", "count": 2 }
+      ]}
+    },
+    { "id": 20, "name": "ASPHALT EDP",          "cat": "parfume",    "price": 72,  "tag": "Drop 04", "klasa": "product--04", "desc": "Notes: leather, smoke, oud. 50ml unisex." },
+    { "id": 21, "name": "MIST EDT",             "cat": "parfume",    "price": 58,  "tag": "Limited", "klasa": "product--04", "desc": "Notes: aquatic, mint, cedar. 50ml fresh." },
+
+    { "id": 22, "name": "Socks Pack x3",        "cat": "corape",     "price": 30,  "tag": "Pack",    "klasa": "product--06", "desc": "Three-pack cotton crew socks. One size 40-45.",
+      "images": { "format": "avif", "colors": [
+        { "name": "Default", "key": "default", "hex": "#ede4d3", "count": 3 }
+      ]}
+    },
+    { "id": 23, "name": "Logo Crew Sock",       "cat": "corape",     "price": 6,   "tag": "Classic", "klasa": "product--06", "desc": "Classic, ribbed cotton. Logo on the inside." },
+    { "id": 24, "name": "90s Tube Sock",        "cat": "corape",     "price": 8,   "tag": "Drop 04", "klasa": "product--06", "desc": "Long tube sock with stripes. 90s vibe." }
+  ],
+  "categories": [
+    { "key": "hoodies",    "name": "Hoodies",    "order": 1 },
+    { "key": "tshirts",    "name": "T-shirts",   "order": 2 },
+    { "key": "trousers",   "name": "Trousers",   "order": 3 },
+    { "key": "sweatpants", "name": "Sweatpants", "order": 4 },
+    { "key": "pants",      "name": "Pants",      "order": 5 },
+    { "key": "atlete",     "name": "Sneakers",   "order": 6 },
+    { "key": "parfume",    "name": "Fragrances", "order": 7 },
+    { "key": "corape",     "name": "Socks",      "order": 8 }
+  ]
+}
