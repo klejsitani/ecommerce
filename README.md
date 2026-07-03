@@ -33,6 +33,7 @@ Project Structure
    server.js
 
 
+SCREENSHOTS
 
 <img width="568" height="298" alt="image" src="https://github.com/user-attachments/assets/46c9ac05-9581-4ff9-a06a-c30f4a8dadc4" />
 
@@ -67,6 +68,4 @@ npm run dev
 The frontend runs on the local Vite dev server (shown in the terminal, e.g. http://localhost:5173).
 
 Author
-Klejsi Tani — Information Technology student, European University of Tirana (UET)
-
 Klejsi Tani — Information Technology student, European University of Tirana (UET)
